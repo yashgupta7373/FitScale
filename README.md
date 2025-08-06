@@ -6,7 +6,7 @@ FitScale is a beautifully designed Flutter app that calculates your Body Mass In
 
 ## 🔗 Live Demo
 
-> 🚀 **Try it now (APK):** [Download APK](https://your-apk-link.com)  
+> 🚀 **Try it now (APK):** [Download APK](https://github.com/yashgupta7373/FitScale/tree/master/APK%20File)  
 > 🛠️ **GitHub Repository:** [github.com/yashgupta7373/FitScale](https://github.com/yashgupta7373/FitScale)
 
 ---
