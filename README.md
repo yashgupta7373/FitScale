@@ -13,14 +13,14 @@ FitScale is a beautifully designed Flutter app that calculates your Body Mass In
 
 ## 📸 Screenshots
 
-| Splash Screen                | BMI Calculate                   | Result Screen                     |
-|------------------------------|--------------------------- -----|-----------------------------------|
-| ![Splash](screenshot/L1.jpg) | ![Calculate](screenshot/L4.jpg) | ![Suggestions](screenshot/L5.jpg) |
-| ![Splash](screenshot/B1.jpg) | ![Calculate](screenshot/B4.jpg) | ![Suggestions](screenshot/B5.jpg) |
-|------------------------------|---------------------------------|-----------------------------------|
-| Suggestion Screen            | Other Screen                    | Other Screen                      |
-| ![Result](screenshot/L6.jpg) | ![Result](screenshot/L2.jpg)    | ![Result](screenshot/L3.jpg)      |
-| ![Result](screenshot/B6.jpg) | ![Result](screenshot/B2.jpg)    | ![Result](screenshot/B3.jpg)      |
+| Splash Screen                | BMI Calculate                   | Result Screen                             |
+|------------------------------|--------------------------- -----|-------------------------------------------|
+| ![Splash](screenshot/L1.jpg) | ![Calculate](screenshot/L4.jpg) | ![Suggestions](screenshot/L5.jpg)         |
+| ![Splash](screenshot/B1.jpg) | ![Calculate](screenshot/B4.jpg) | ![Suggestions](screenshot/B5.jpg)         |
+|------------------------------|---------------------------------|-------------------------------------------|
+| Suggestion Screen            | Other Screen                    | Other Screen                              |
+| ![Result](screenshot/L6.jpg) | ![Result](screenshot/L2.jpg)    | ![Result](screenshot/L3.jpg)              |
+| ![Result](screenshot/B6.jpg) | ![Result](screenshot/B2.jpg)    | ![Result](screenshot/B3.jpg)              |
 
 ---
 
